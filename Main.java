@@ -1,3 +1,5 @@
+//This is about Scanners and a bit of if-statement
+
 import java.util.Scanner;
 public class Main {
     public static void main(String[]args ){
